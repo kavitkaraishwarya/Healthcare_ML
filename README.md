@@ -1,4 +1,7 @@
 # Healthcare_ML
+
+![HealthCare Analytics](https://ideagensite-ideagensiteprodstore.azureedge.net/corp-prodcache/f/8/c/e/3/7/f8ce37381290e9c377738dd6b0f2792f13cd97de.png)
+
 Problem statement:
 Cardiovascular diseases are the leading cause of death globally. It is therefore necessary to identify the causes and develop a system to predict heart attacks in an effective manner. The data below has the information about the factors that might have an impact on cardiovascular health. 
 
