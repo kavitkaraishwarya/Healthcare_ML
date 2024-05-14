@@ -53,6 +53,7 @@ g.	State what relationship exists between peak exercising and the occurrence of 
 h.	Check if thalassemia is a major cause of CVD
 i.	List how the other factors determine the occurrence of CVD
 j.	Use a pair plot to understand the relationship between all the given variables
+
 3.	Build a baseline model to predict the risk of a heart attack using a logistic regression and random forest and explore the results while using correlation analysis and logistic regression (leveraging standard error and p-values from statsmodels) for feature selection
 
 
